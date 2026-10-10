@@ -1,0 +1,6 @@
+{
+  "name": "CalisStart: 182-Day Zero-to-Pushup Fitness PWA",
+  "description": "A 182-day beginner home bodyweight fitness program from 0 push-ups. 30 minutes daily, offline-first PWA, animated SVG form guides, voice & audio cues, and smart progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
