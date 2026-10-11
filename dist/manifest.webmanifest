@@ -1,0 +1,39 @@
+{
+  "id": "/",
+  "name": "CalisStart: 182-Day Zero-to-Pushup Fitness PWA",
+  "short_name": "CalisStart",
+  "description": "A 182-day beginner home bodyweight fitness program from 0 push-ups. 30 minutes daily, offline-first PWA, animated SVG form guides, voice & audio cues.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["fitness", "health", "lifestyle"]
+}
